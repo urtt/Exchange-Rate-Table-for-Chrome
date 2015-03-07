@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "FX Rates Table"
+  },
+  "appDesc": {
+    "message": "Display the FX Rates Table."
+  },
+  "options": {
+    "message": "settings"
+  }
+}

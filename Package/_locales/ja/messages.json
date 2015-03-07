@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "為替レート"
+  },
+  "appDesc": {
+    "message": "為替レートを気軽にチェック"
+  },
+  "options": {
+    "message": "設定"
+  }
+}
