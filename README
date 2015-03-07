@@ -1,3 +1,7 @@
 This extension shows the exchange rates taken from the investing.com.
+<<<<<<< HEAD
 
 http://www.investing.com/quotes/exchange-rates-table
+=======
+http://www.investing.com/webmaster-tools/exchange-rates-table
+>>>>>>> 380aa00194f23715abd410e813dfd07242ffa8aa
