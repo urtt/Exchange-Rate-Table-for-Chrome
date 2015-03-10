@@ -1,4 +1,4 @@
-![ScreenShot](https://github.com/urtt/Exchange-Rate-Table-for-Chrome/raw/master/ScreenShot/02.png)
+![ScreenShot](https://github.com/urtt/Exchange-Rate-Table-for-Chrome/raw/master/ScreenShot/00.png)
 
 This extension shows the exchange rates taken from the investing.com.
 
